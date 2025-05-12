@@ -1,0 +1,45 @@
+{
+  "summary": {
+    "total_spent": 338.75,
+    "number_of_transactions": 10,
+    "start_date_applied": "N/A",
+    "end_date_applied": "N/A",
+    "analysis_period_grouping": "monthly"
+  },
+  "by_category": [
+    {
+      "category_name": "Utilities",
+      "total": 155.0,
+      "percentage": 45.76
+    },
+    {
+      "category_name": "Food",
+      "total": 81.75,
+      "percentage": 24.13
+    },
+    {
+      "category_name": "Transport",
+      "total": 52.0,
+      "percentage": 15.35
+    },
+    {
+      "category_name": "Entertainment",
+      "total": 50.0,
+      "percentage": 14.76
+    }
+  ],
+  "over_time": [
+    {
+      "period_label": "2025-03",
+      "total": 117.5
+    },
+    {
+      "period_label": "2025-04",
+      "total": 122.5
+    },
+    {
+      "period_label": "2025-05",
+      "total": 98.75
+    }
+  ]
+}
