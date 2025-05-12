@@ -1,0 +1,13 @@
+[
+  {"category_name": "Food", "amount": 12.50, "expense_date": "2025-03-10"},
+  {"category_name": "Transport", "amount": 30.00, "expense_date": "2025-03-12"},
+  {"category_name": "Food", "amount": 25.00, "expense_date": "2025-03-15"},
+  {"category_name": "Entertainment", "amount": 50.00, "expense_date": "2025-03-20"},
+  {"category_name": "Utilities", "amount": 75.00, "expense_date": "2025-04-01"},
+  {"category_name": "Food", "amount": 10.00, "expense_date": "2025-04-05"},
+  {"category_name": "Food", "amount": 15.50, "expense_date": "2025-04-10"},
+  {"category_name": "Transport", "amount": 22.00, "expense_date": "2025-04-12"},
+  {"category_name": "Utilities", "amount": 80.00, "expense_date": "2025-05-01"},
+  {"category_name": "Food", "amount": 18.75, "expense_date": "2025-05-05"}
+]
+
